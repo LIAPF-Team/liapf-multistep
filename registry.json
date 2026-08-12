@@ -1,0 +1,8 @@
+{
+  "name": "liapf-multistep",
+  "description": "A multi-step form component that allows users to navigate through different steps of a process.",
+  "tag": "liapf-multistep",
+  "files": ["liapf-multistep.js", "liapf-multistep.css"],
+  "channels": [],
+  "dependencies": []
+}
