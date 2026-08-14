@@ -19,7 +19,7 @@ export class LiapfMultistep extends Okalit {
   }
 
   _getSteps() {
-    return Array.from(this.children).filter((el) => el.tagName === 'STEP-ITEM-MOLECULE');
+    return Array.from(this.children).filter((el) => el.tagName === 'LIAPF-STEP-ITEM');
   }
 
   _syncSteps() {
